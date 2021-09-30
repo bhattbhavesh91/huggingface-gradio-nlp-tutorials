@@ -3,6 +3,19 @@
 ## Click to open the Notebook directly in Google Colab
 <a href="https://colab.research.google.com/github/bhattbhavesh91/huggingface-gradio-nlp-tutorials/blob/main/tutorial-notebook.ipynb" target="_blank"><img height="40" alt="Open in Colab" src = "https://colab.research.google.com/assets/colab-badge.svg"></a>
 
+## To view the video
+
+<table>
+   <tr>
+      <td><a href="http://www.youtube.com/watch?v=MbhqMbsP9j4" target="_blank"><img height="50" src = "https://img.shields.io/youtube/views/MbhqMbsP9j4?color=blue&label=Watch%20on%20YouTube&logo=youtube&logoColor=red&style=for-the-badge"></a></td>
+   </tr>
+</table>
+
+or click on the image below
+
+
+[![Build Language Translator Web Application using Python, Hugging Face & Gradio
+](http://img.youtube.com/vi/MbhqMbsP9j4/0.jpg)](http://www.youtube.com/watch?v=MbhqMbsP9j4)
 
 <a href="https://github.com/sponsors/bhattbhavesh91" target="_blank"><img height="40" alt="GitHub Sponsor" src = "https://img.shields.io/badge/Sponsor me on GitHub-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white"></a>
 <a href="https://t.me/bhattbhavesh91" target="_blank"><img height="40" alt="Telegram Channel Link" src = "https://img.shields.io/badge/Join my Telegram channel-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
